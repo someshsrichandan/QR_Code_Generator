@@ -25,7 +25,7 @@ const AdvancedSettings = ({ onSubmit }) => {
   };
 
   return (
-    <form onSubmit={handleSubmit} className="flex flex-col gap-4">
+    <form onSubmit={handleSubmit} className="flex flex-col gap-4 p-2 md:p-4">
       <input
         type="text"
         name="value"

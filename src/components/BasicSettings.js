@@ -9,7 +9,7 @@ const BasicSettings = ({ onSubmit }) => {
   };
 
   return (
-    <form onSubmit={handleSubmit} className="flex flex-col items-center gap-4">
+    <form onSubmit={handleSubmit} className="flex flex-col items-center gap-4 p-2 md:p-4">
       <input
         type="text"
         value={url}
