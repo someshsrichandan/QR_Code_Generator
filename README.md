@@ -1,6 +1,5 @@
 # 𝄃𝄃𝄂 QR Code Generator
 
-![QR Code Generator Screenshot](path/to/your/screenshot.png)
 
 A versatile QR Code Generator with basic and advanced features. Easily customize logos, colors, and styles to create unique QR codes for personal or business use.
 
@@ -32,6 +31,9 @@ npm run start
 ## 📸 Screenshots
 
 Include screenshots to showcase the UI and features of the QR Code Generator.
+
+![QR Code Generator Basic Screenshot](/basic.png)
+![QR Code Generator Advance Screenshot](/advance.png)
 
 ## 📄 License
 
