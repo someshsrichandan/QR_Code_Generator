@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 const AdvancedSettings = ({ onSubmit }) => {
   const [settings, setSettings] = useState({
-    value: "https://yourwebsite.com",
+    value: "",
     fgColor: "#4A90E2",
     bgColor: "#ffffff",
     eyeColor: { outer: '#F5A623', inner: '#D0021B' },
@@ -32,7 +32,7 @@ const AdvancedSettings = ({ onSubmit }) => {
         value={settings.value}
         onChange={handleChange}
         className="w-full px-4 py-2 text-gray-700 bg-white border border-gray-300 rounded shadow focus:outline-none focus:border-purple-500"
-        placeholder="Enter URL"
+        placeholder="Paste Text / URL"
       />
       <input
         type="color"

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 const BasicSettings = ({ onSubmit }) => {
-  const [url, setUrl] = useState("https://yourwebsite.com");
+  const [url, setUrl] = useState("");
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -11,11 +11,12 @@ const BasicSettings = ({ onSubmit }) => {
   return (
     <form onSubmit={handleSubmit} className="flex flex-col items-center gap-4 p-2 md:p-4">
       <input
+
         type="text"
         value={url}
         onChange={(e) => setUrl(e.target.value)}
         className="w-full px-4 py-2 text-gray-700 bg-white border border-gray-300 rounded shadow focus:outline-none focus:border-purple-500"
-        placeholder="Enter URL"
+        placeholder="Paste Text / URL"
       />
       <button
         type="submit"
