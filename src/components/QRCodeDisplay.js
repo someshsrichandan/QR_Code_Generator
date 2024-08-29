@@ -21,7 +21,7 @@ const QRCodeDisplay = ({ qrCodeData }) => {
 
   return (
     <div className="flex flex-col items-center gap-4 p-2 md:p-4">
-      <div ref={qrRef} className="p-4 bg-white rounded-lg shadow-md max-w-full">
+      <div ref={qrRef} className="p-4 bg-white rounded-lg shadow-md max-w-full border border-gray-300">
         <QRCode
           value={qrCodeData.value}
           size={256}
