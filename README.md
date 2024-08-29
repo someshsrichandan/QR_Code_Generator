@@ -38,5 +38,3 @@ Include screenshots to showcase the UI and features of the QR Code Generator.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to adjust the paths and content to match your project's specifics, and make sure to replace placeholders like `yourusername` and `path/to/your/screenshot.png` with your actual GitHub username and screenshot path.
