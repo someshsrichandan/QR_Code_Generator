@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Url_Shortener/static/css/main.ceb75e48.css",
-    "main.js": "/Url_Shortener/static/js/main.ab37b3e1.js",
-    "static/js/453.1434da66.chunk.js": "/Url_Shortener/static/js/453.1434da66.chunk.js",
-    "index.html": "/Url_Shortener/index.html",
-    "main.ceb75e48.css.map": "/Url_Shortener/static/css/main.ceb75e48.css.map",
-    "main.ab37b3e1.js.map": "/Url_Shortener/static/js/main.ab37b3e1.js.map",
-    "453.1434da66.chunk.js.map": "/Url_Shortener/static/js/453.1434da66.chunk.js.map"
+    "main.css": "/QR_Code_Generator/static/css/main.ceb75e48.css",
+    "main.js": "/QR_Code_Generator/static/js/main.14160557.js",
+    "static/js/453.1434da66.chunk.js": "/QR_Code_Generator/static/js/453.1434da66.chunk.js",
+    "index.html": "/QR_Code_Generator/index.html",
+    "main.ceb75e48.css.map": "/QR_Code_Generator/static/css/main.ceb75e48.css.map",
+    "main.14160557.js.map": "/QR_Code_Generator/static/js/main.14160557.js.map",
+    "453.1434da66.chunk.js.map": "/QR_Code_Generator/static/js/453.1434da66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ceb75e48.css",
-    "static/js/main.ab37b3e1.js"
+    "static/js/main.14160557.js"
   ]
 }
